@@ -1,0 +1,440 @@
+[
+  {
+    "titulo": "Tester QA Automation Selenium + Python",
+    "url": "https://www.tecnoempleo.com/tester-qa-automation-selenium-python-digital-talen/gherkin-jira/rf-ae3e1a65028963746949",
+    "empresa": "Digital Talent Agency",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/165094.png?01",
+    "fecha": "2026-06-18",
+    "ubicacion": "100% remoto",
+    "modalidad": "",
+    "categoria": "100% remoto",
+    "descripcion": "Descripción\n¡Únete a Zemsania como Tester QA Automation Selenium + Python (Remoto)! 🚀\n\nEn Zemsania, buscamos talento excepcional para unirse a nuestro equipo dinámico y...",
+    "tecnologias": [
+      "selenium",
+      "python",
+      "gherkin"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Programador/a Python",
+    "url": "https://www.tecnoempleo.com/programador-python-arelance/aws-rag/rf-4af7158192afe33ced4f",
+    "empresa": "Arelance",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/154451.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Programador",
+    "descripcion": "En Arelance sabemos que las personas son el activo más importante dentro de una empresa y por tanto invertimos muchos esfuerzos en buscar los mejores profesionales para ...",
+    "tecnologias": [
+      "python",
+      "AWS",
+      "RAG"
+    ],
+    "salario": "24.000€ - 33.000€ b/a",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Junior Developer (Java o Python)",
+    "url": "https://www.tecnoempleo.com/junior-developer-java-o-python-ust/aws/rf-0b1719d1f2e893939d45",
+    "empresa": "UST",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/206894.png?02",
+    "fecha": "2026-06-16",
+    "ubicacion": "100% remoto",
+    "modalidad": "",
+    "categoria": "Programador",
+    "descripcion": "¡Seguimos buscando talento…y nos encantaría que te unieras a nuestro equipo!\r\n\r\nPara que nos conozcas algo mejor, UST es una multinacional norteamericana certificada como ...",
+    "tecnologias": [
+      "java",
+      "python",
+      "aws"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Software Engineer Python - Lynx",
+    "url": "https://www.tecnoempleo.com/software-engineer-python-lynx-santander/sql/rf-5da51a97920db33e0c48",
+    "empresa": "Santander",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205659.png?02",
+    "fecha": "2026-06-12",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Programador",
+    "descripcion": "Software Engineer Python - Lynx\r\n\r\nCountry: Spain\r\n\r\nLynx Financial Crime Tech está buscando un/a Software Engineer (Python) para nuestras oficinas en Madrid.\r\n\r\nPOR QUÉ ...",
+    "tecnologias": [
+      "Python",
+      "SQL"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Doctor Desarrollador para I+D con Agentes IA",
+    "url": "https://www.tecnoempleo.com/doctor-desarrollador-para-i-d-con-agentes-ia-singu/c-uml/rf-24131e844238f34ba24b",
+    "empresa": "Singular Things",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/207117.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Electrónica",
+    "descripcion": "Necesaria experiencia en programación en C/C++, Programación Orientado a Objetos y Comunicaciones (capas OSI).\n\nSe valoran muy positivamente conocimientos de programación ...",
+    "tecnologias": [
+      "C",
+      "C++",
+      "UML"
+    ],
+    "salario": "54.000€ - 60.000€ b/a",
+    "urgente": true,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Senior Fullstack Engineer - Lending Team",
+    "url": "https://www.tecnoempleo.com/senior-fullstack-engineer-lending-team-ebury/python-django/rf-90811edfe22df324dd45",
+    "empresa": "Ebury",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205689.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Programador",
+    "descripcion": "Ebury helps ambitious businesses unlock global growth, and we take the same approach with our people. We encourage innovation and movement, collaboration and problem-solving, ...",
+    "tecnologias": [
+      "Python",
+      "Django",
+      "Node.js"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Backend Spark developer",
+    "url": "https://www.tecnoempleo.com/backend-spark-developer-ust/scala-python/rf-f0761ee13285f31bce44",
+    "empresa": "UST",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/206894.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "100% remoto",
+    "modalidad": "",
+    "categoria": "Programador",
+    "descripcion": "¡Seguimos buscando talento…y nos encantaría que te unieras a nuestro equipo!\r\n\r\nPara que nos conozcas algo mejor, UST es una multinacional norteamericana certificada como ...",
+    "tecnologias": [
+      "Spark",
+      "Scala",
+      "Python"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Ingeniero/a DevOps en Galileo SCCF",
+    "url": "https://www.tecnoempleo.com/ingeniero-devops-en-galileo-sccf-gmv/kubernetes-helm/rf-af8f1359624683d0f44e",
+    "empresa": "GMV",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/167836.png?01",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "DevOps",
+    "descripcion": "Si siempre soñaste con pasar el día en la Luna, pero eres de los que se marea en los viajes con curvas… ¡Tu sitio está con nosotros! Estamos ampliando nuestros equipos ...",
+    "tecnologias": [
+      "Kubernetes",
+      "Helm",
+      "Python"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Senior IT&Data Audit&Assurance",
+    "url": "https://www.tecnoempleo.com/senior-it-data-audit-assurance-deloitte/python-databricks/rf-8f75191a02db232da04e",
+    "empresa": "Deloitte",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205707.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Analista",
+    "descripcion": "Te imaginas participando en la transformación de las principales organizaciones nacionales e internacionales?\r\n\r\nEn Deloitte estamos comprometidos con generar un impacto en ...",
+    "tecnologias": [
+      "Python",
+      "Databricks",
+      "Powerapps"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Model Validation Quantitative Analyst",
+    "url": "https://www.tecnoempleo.com/model-validation-quantitative-analyst-julius-baer/python-r/rf-8d0e1b3e62825370cf46",
+    "empresa": "Julius Baer",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205904.png?02",
+    "fecha": "2026-06-18",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Analista Programador",
+    "descripcion": "At Julius Baer, we celebrate and value the individual qualities you bring, enabling you to be impactful, to be entrepreneurial, to be empowered, and to create value beyond ...",
+    "tecnologias": [
+      "Python",
+      "R",
+      "SQL"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Desarrollador/a Azure",
+    "url": "https://www.tecnoempleo.com/desarrollador-azure-serem/microservicios-azure-functions/rf-307619e9b220d396814d",
+    "empresa": "Serem",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/153604.png?01",
+    "fecha": "2026-06-17",
+    "ubicacion": "100% remoto",
+    "modalidad": "",
+    "categoria": "Analista Programador",
+    "descripcion": "En serem estamos comprometidos con diversos proyectos y queremos contar con los mejores profesionales del sector.\n\nActualmente, nos encontramos en la búsqueda de un/a ...",
+    "tecnologias": [
+      "Azure",
+      "microservicios",
+      "Azure Functions"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Desarrollador/a C++ / Java",
+    "url": "https://www.tecnoempleo.com/desarrollador-c-java-gmv/c-python/rf-d4fc1e84524193e1cd4b",
+    "empresa": "GMV",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/167836.png?01",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Programador",
+    "descripcion": "¿Quieres formar parte de un equipo consolidado del sector espacio y enfrentarte a nuevos retos? GMV somos un grupo tecnológico líderes en el área de centros de control de ...",
+    "tecnologias": [
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Junior Data Analyst (Quicksight) - Hibrido Madrid",
+    "url": "https://www.tecnoempleo.com/junior-data-analyst-quicksight-hibrido-madrid-seco/amazon-quicksight-pytho/rf-d1df1fc0922eb33b1f46",
+    "empresa": "Second Window",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/179790.png?02",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Big Data",
+    "descripcion": "En Second Window, buscamos un perfil de Junior Data Analyst / Data Scientist, analista de BI o rol similar, para incorporarse a un proyecto muy estable y a largo plazo. Esta ...",
+    "tecnologias": [
+      "Amazon Quicksight",
+      "Python",
+      "SQL"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Data Scientist",
+    "url": "https://www.tecnoempleo.com/data-scientist-ebury/python-sql/rf-e9bc17ffc24133a1064b",
+    "empresa": "Ebury",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205689.png?02",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Analista",
+    "descripcion": "Ebury helps ambitious businesses unlock global growth, and we take the same approach with our people. We encourage innovation and movement, collaboration and problem-solving, ...",
+    "tecnologias": [
+      "Python",
+      "SQL",
+      "Google Cloud Platform"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Data Analyst (f/m/d)",
+    "url": "https://www.tecnoempleo.com/data-analyst-f-m-d-axpo-group/sql-python/rf-986c193432bce31d044f",
+    "empresa": "Axpo Group",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/206071.png?02",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Analista Programador",
+    "descripcion": "Workload: 100%\r\n\r\nAre you ready to make a difference? Join Axpo, Switzerland´s largest producer of renewable energy, and help us shape the future of Internal Audit. As a Data...",
+    "tecnologias": [
+      "SQL",
+      "Python",
+      "R"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Ingeniero IA",
+    "url": "https://www.tecnoempleo.com/ingeniero-ia-page-personnel/tensorflow-pytorch/rf-a161145dc2d453dc6e48",
+    "empresa": "Page Personnel",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/166571.png?01",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Madrid",
+    "descripcion": "Perfil buscado (Hombre/Mujer)\r\n\r\n• Diseñar, desarrollar y optimizar modelos de inteligencia artificial y aprendizaje automático.\r\n• Implementar soluciones tecnológicas ...",
+    "tecnologias": [
+      "TensorFlow",
+      "PyTorch",
+      "Python"
+    ],
+    "salario": "60.000€ - 72.000€ b/a",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Tecnico Ciberseguridad + IA Junior",
+    "url": "https://www.tecnoempleo.com/tecnico-ciberseguridad-ia-junior-grupo-digital/python-sql/rf-7c201eeb92a3d3839144",
+    "empresa": "Grupo Digital",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/157304.png?01",
+    "fecha": "2026-06-17",
+    "ubicacion": "Madrid",
+    "modalidad": "Presencial",
+    "categoria": "Ciberseguridad",
+    "descripcion": "Descripción\nen GP DIGITAL buscamos para cliente ser sector banca \n\nTécnico  Ciberseguridad  + IA  jr\n\n¿Quieres iniciar tu carrera en ciberseguridad dentro de un entorno ...",
+    "tecnologias": [
+      "ciberseguridad",
+      "ia",
+      "python"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Jira & JSM Administrator (Tech support)",
+    "url": "https://www.tecnoempleo.com/jira-jsm-administrator-tech-support-axpo-group/rest-api-groovy/rf-403814887214739dd547",
+    "empresa": "Axpo Group",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/206071.png?02",
+    "fecha": "2026-06-16",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Administrador",
+    "descripcion": "Workload: 80-100%\r\n\r\nAre you passionate about driving efficiency and innovation? Join Axpo, Switzerland´s leading power trading and energy production company, and be at the ...",
+    "tecnologias": [
+      "Jira",
+      "JSM",
+      "REST API"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "INTERNSHIP Machine Learning for Stress Analyses",
+    "url": "https://www.tecnoempleo.com/internship-machine-learning-for-stress-analyses-ai/python-machine-learning/rf-529f1268721633b8be42",
+    "empresa": "Airbus",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205830.png?03",
+    "fecha": "2026-06-15",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Madrid",
+    "descripcion": "Job Description:\r\n\r\nReady to join one of our Graduate Programs in Spain?\r\n\r\nAIRBUS offer more than 70 vacancies for our full time graduate program in Spain - #Discover II 2026...",
+    "tecnologias": [
+      "Python",
+      "Machine Learning"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Data Scientist - Song",
+    "url": "https://www.tecnoempleo.com/data-scientist-song-accenture/python-llm/rf-09dc10f23291e3486e4d",
+    "empresa": "Accenture",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/205650.png?02",
+    "fecha": "2026-06-11",
+    "ubicacion": "Madrid",
+    "modalidad": "",
+    "categoria": "Big Data",
+    "descripcion": "Accenture Song acelera el crecimiento y el valor para nuestros clientes. Es el lugar donde los profesionales reimaginamos las industrias, productos y serviciosabarcando desde ...",
+    "tecnologias": [
+      "Python",
+      "LLM",
+      "SQL"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Ingeniero/a de I+D",
+    "url": "https://www.tecnoempleo.com/ingeniero-i-d-gmv/iomt-python/rf-ae611e7c7260235c8241",
+    "empresa": "GMV",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/167836.png?01",
+    "fecha": "2026-06-11",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Arquitecto TIC",
+    "descripcion": "Si siempre soñaste con ser un héroe, pero sabes que tu papel en una película de guerra sería de muerto en combate número 3… ¡Tu sitio está con nosotros! Estamos ...",
+    "tecnologias": [
+      "IoMT",
+      "Python",
+      "C++"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  },
+  {
+    "titulo": "Ingeniero/a de Software (Java)",
+    "url": "https://www.tecnoempleo.com/ingeniero-software-java-gmv/git-unix/rf-c8de118d4202e30bbc4f",
+    "empresa": "GMV",
+    "logo_url": "https://www.tecnoempleo.com/logotipos/167836.png?01",
+    "fecha": "2026-06-11",
+    "ubicacion": "Madrid",
+    "modalidad": "Híbrido",
+    "categoria": "Programador",
+    "descripcion": "¿Buscas un sitio innovador y consolidado en el que desarrollarte profesionalmente? GMV somos un grupo tecnológico con amplia experiencia. Estamos ampliando nuestros equipos ...",
+    "tecnologias": [
+      "Java",
+      "Git",
+      "UNIX"
+    ],
+    "salario": "",
+    "urgente": false,
+    "inscrito": false,
+    "match_pct": null
+  }
+]
